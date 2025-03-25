@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "h1": "Welcome to our university",
+    "p": "Unlock your potential with world-class education",
+    "btn": "Discover more"
+  },
+  "navbar": {
+    "h1": "Home",
+    "h2": "About Us",
+    "h3": "Services",
+    "h4": "News"
+  },
+  "statistic": {
+    "h1": "Key Statistics of Our University"
+  },
+  "Gallery": {
+    "h1": "Our Gallery",
+    "p": "Explore our university moments captured in pictures."
+},
+"Partners": {
+    "h1": "Partners",
+    "p": "Our reliable partners"
+},
+"News": {
+    "h1": "News",
+    "btn": "View All"
+}
+
+    
+,
+
+"Input": {
+    "h1": "Got Questions?",
+    "h2": "Your Name",
+    "h3": "Enter your full name",
+    "h4": "Phone / Email",
+    "h5": "Enter your email or phone number",
+    "h6": "Message",
+    "h7": "Write your message here...",
+    "btn": "Send Message 🚀"
+}
+,
+"Students": {
+    "h1": "Meet Our Brightest Students",
+    "p": "Inspiring stories from our successful students."
+},
+"Footer": {
+    "h1": "Our Address",
+    "h2": "Social Media"
+},
+"Abouthero": {
+    "h1": "About Our University",
+    "p": "Welcome to our prestigious university where innovation and excellence come together. Our team is dedicated to fostering creativity, knowledge, and leadership.\n\nWith a history of academic achievements and groundbreaking research, we strive to shape the future by empowering students with world-class education and real-world experience. Our commitment to cutting-edge research and a dynamic learning environment ensures that every student reaches their full potential."
+}
+,
+"Aboutwhy": {
+    "h1": "Why Choose Us?"
+}
+,
+"AboutTeam": {
+    "h1": "Meet Our Team"
+}
+,
+"ServiceHero": {
+    "h1": "Our Services",
+    "p": "We provide cutting-edge solutions to take your business to the next level."
+},
+"serviceGet": {
+    "h1": "Get in Touch",
+    "p": "Want to work with us? Reach out and let's discuss your project.",
+    "btn": "Contact Us"
+}
+,
+"Popular": {
+    "h1": "Popular News",
+    "p1": "Professor Wins Prestigious Award",
+    "p2": "Leadership Book Presented to University Library",
+    "p3": "University Partners with Tech Giants"
+}
+
+
+
+
+
+
+}

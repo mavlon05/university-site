@@ -1,0 +1,87 @@
+
+{
+    "hero":{
+        "h1":"Bizning universityimizga hush kelibsiz",
+        "p":"O‘z imkoniyatingizni jahon darajasidagi ta’lim bilan oching",
+        "btn":"Ko‘proq kashf qiling"
+    },
+
+    "navbar":{
+        "h1":"Bosh sahifa",
+        "h2":"Biz haqimizda",
+         "h3":"Xizmatlar",
+          "h4":" Yangiliklar"
+
+    },
+    "statistic":{
+        "h1":"Bizning universitetimizning asosiy statistikasi"
+
+    },
+    "Gallery":{
+        "h1":"Bizning Galereyamiz",
+        "p":"Universitetimizning unutilmas lahzalarini suratlarda kashf qiling"
+
+    },
+   "Partners": {
+    "h1": "Hamkorlar",
+    "p": "Bizning ishonchli hamkorlarimiz"
+},
+"News": {
+    "h1": "Yangiliklar",
+    "btn": "Hammasini ko‘rish"
+},
+"Input": {
+    "h1": "Savollaringiz bormi?",
+    "h2": "Ismingiz",
+    "h3": "To‘liq ismingizni kiriting",
+    "h4": "Telefon / Email",
+    "h5": "Email yoki telefon raqamingizni kiriting",
+    "h6": "Xabar",
+    "h7": "Xabaringizni shu yerga yozing...",
+    "btn": "Xabarni yuborish 🚀"
+},
+"Students": {
+    "h1": "Bizning eng zukko talabalarimiz bilan tanishing",
+    "p": "Muvaffaqiyatli talabalarimizning ilhomlantiruvchi hikoyalari."
+}
+,
+"Footer": {
+    "h1": "Bizning manzilimiz",
+    "h2": "Ijtimoiy tarmoqlar"
+},
+
+"Abouthero": {
+    "h1": "Bizning Universitetimiz Haqida",
+    "p": "Nufuzli universitetimizga xush kelibsiz, bu yerda innovatsiya va mukammallik birlashadi. Bizning jamoamiz ijodkorlik, bilim va yetakchilikni rivojlantirishga bag‘ishlangan.\n\nAkademik yutuqlar va ilg‘or tadqiqotlar tarixiga ega bo‘lgan holda, biz talabalarni jahon darajasidagi ta’lim va haqiqiy hayot tajribasi bilan ta’minlash orqali kelajakni shakllantirishga intilamiz. Ilmiy izlanishlarga sodiqlik va dinamik o‘quv muhiti har bir talabaga o‘zining to‘liq salohiyatiga erishishiga yordam beradi."
+},
+
+"Aboutwhy": {
+    "h1": "Nega bizni tanlaysiz?"
+},
+"AboutTeam": {
+    "h1": "Jamoamiz bilan tanishing"
+}
+,
+"ServiceHero": {
+    "h1": "Xizmatlarimiz",
+    "p": "Biz sizning biznesingizni yangi bosqichga olib chiqish uchun ilg‘or yechimlarni taqdim etamiz."
+},
+"serviceGet": {
+    "h1": "Bog‘lanish",
+    "p": "Biz bilan ishlashni xohlaysizmi? Aloqa qiling va loyihangiz haqida gaplashamiz.",
+    "btn": "Biz bilan bog‘laning"
+},
+
+"Popular": {
+    "h1": "Ommabop Yangiliklar",
+    "p1": "Professor nufuzli mukofotga sazovor bo‘ldi",
+    "p2": "Universitet kutubxonasiga yetakchilik kitobi taqdim etildi",
+    "p3": "Universitet texnologiya gigantlari bilan hamkorlik qilmoqda"
+}
+
+
+
+
+
+
+}

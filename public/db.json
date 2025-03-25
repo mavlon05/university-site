@@ -1,0 +1,723 @@
+{
+  "statistics": [
+  {
+    "id": 1,
+    "totalNumber": "648",
+    "statisticdesc": {
+      "uz": "Professorlar va o‘qituvchilar",
+      "en": "Professors and Teachers"
+    },
+    "icon": "FaChalkboardTeacher"
+  },
+  {
+    "id": 2,
+    "totalNumber": "11479",
+    "statisticdesc": {
+      "uz": "Talabalar",
+      "en": "Students"
+    },
+    "icon": "FaUserGraduate"
+  },
+  {
+    "id": 3,
+    "totalNumber": "2270",
+    "statisticdesc": {
+      "uz": "Bitirgan talabalar",
+      "en": "Graduated Students"
+    },
+    "icon": "FaUserCheck"
+  },
+  {
+    "id": 4,
+    "totalNumber": "1070",
+    "statisticdesc": {
+      "uz": "Bo‘limlar",
+      "en": "Departments"
+    },
+    "icon": "FaBuilding"
+  }
+],
+
+
+  "images": [
+    {
+      "id": 1,
+      "src": "/Images/beautifelcampus.png",
+      "category": "Campus",
+      "title": {
+        "uz": "Go'zal kampus",
+        "en": "Beautiful Campus"
+      }
+    },
+    {
+      "id": 2,
+      "src": "/Images/Images2/Team1.jpg",
+      "category": "Events",
+      "title": {
+        "uz": "Bitiruv kuni",
+        "en": "Graduation Day"
+      }
+    },
+    {
+      "id": 3,
+      "src": "/Images/Images2/Team2.jpg",
+      "category": "Students",
+      "title": {
+        "uz": "Guruh bilan o‘qish",
+        "en": "Group Study"
+      }
+    },
+    {
+      "id": 5,
+      "src": "/Images/Images2/Marafon-Photoroom.png",
+      "category": "Events",
+      "title": {
+        "uz": "Sport festivali",
+        "en": "Sports Festival"
+      }
+    },
+    {
+      "id": 6,
+      "src": "/Images/day.png",
+      "category": "Campus",
+      "title": {
+        "uz": "Yangi bino",
+        "en": "New Building"
+      }
+    },
+    {
+      "id": 7,
+      "src": "/Images/Images2/shaxmat-Photoroom.png",
+      "category": "Students",
+      "title": {
+        "uz": "Laboratoriya ishi",
+        "en": "Lab Work"
+      }
+    },
+    {
+      "id": 8,
+      "src": "/Images/Images2/night.jpg",
+      "category": "Events",
+      "title": {
+        "uz": "Madaniy kecha",
+        "en": "Cultural Night"
+      }
+    },
+    {
+      "id": 9,
+      "src": "/Images/Images2/maruzazali-Photoroom.png",
+      "category": "Campus",
+      "title": {
+        "uz": "Ma’ruza zali",
+        "en": "Lecture Hall"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "uz": "Barchasi",
+        "en": "All"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "uz": "Kampus",
+        "en": "Campus"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "uz": "Tadbirlar",
+        "en": "Events"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "uz": "Talabalar",
+        "en": "Students"
+      }
+    }
+  ]
+,
+
+
+  "partners": [
+    {
+      "id": 1,
+      "href": "https://uzbekistans.club/",
+      "imgSrc": "/Images/Images2/uzbekistanclub.png",
+      "alt": "Uzbekistan"
+    },
+    {
+      "id": 2,
+      "href": "https://sqb.uz/uz/individuals/",
+      "imgSrc": "/Images/Images2/Sqb.png",
+      "alt": "UIC Group"
+    },
+    {
+      "id": 3,
+      "href": "https://ngo.imkon.uz/",
+      "imgSrc": "/Images/Images2/Imkon.png",
+      "alt": "Imkon"
+    },
+    {
+      "id": 4,
+      "href": "https://uic.group/",
+      "imgSrc": "/Images/Images2/Uic.png",
+      "alt": "SQB Bank"
+    },
+    {
+      "id": 5,
+      "href": "https://paylov.uz/",
+      "imgSrc": "/Images/Images2/Paylov.png",
+      "alt": "Paylov"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "img": "/Images/Images2/Images3/News1.jpg",
+      "title": {
+        "en": "University officials met with partners",
+        "uz": "Universitet rasmiylari hamkorlar bilan uchrashdi"
+      },
+      "disc": {
+        "en": "At the GITEX 2025 technology exhibition, representatives from Oracle and our team engaged in discussions about future collaborations.",
+        "uz": "GITEX 2025 texnologiya ko'rgazmasida Oracle vakillari va bizning jamoamiz kelajakdagi hamkorliklar haqida muzokaralar olib bordi."
+      },
+      "date": "2025/03/05"
+    },
+    {
+      "id": 2,
+      "img": "/Images/Images2/Images3/News2.jpg",
+      "title": {
+        "en": "Associate Professor of Iqtidar University",
+        "uz": "Iqtidar universiteti dotsenti"
+      },
+      "disc": {
+        "en": "The university administration held a conference with students to discuss academic developments.",
+        "uz": "Universitet ma'muriyati talabalar bilan akademik rivojlanish bo'yicha konferensiya o'tkazdi."
+      },
+      "date": "2025/03/04"
+    }
+],
+
+ "students": [
+  {
+    "id": 1,
+    "name": {
+      "uz": "Azizbek Qayumov",
+      "en": "Azizbek Qayumov"
+    },
+    "image": "/Images/Images2/Azizbek.jpg",
+    "field": {
+      "uz": "Xalqaro buxgalteriya",
+      "en": "International Accounting"
+    },
+    "achievement": {
+      "uz": "'Moliyaviy tahlil bo‘yicha eng yaxshi bitiruvchi' - 2024",
+      "en": "Awarded 'Best Graduate in Financial Analysis' - 2024"
+    },
+    "testimonial": {
+      "uz": "Universitet menga biznes boshqaruvi va moliyaga bo‘lgan qiziqishimni kashf etishda yordam berdi.",
+      "en": "The university helped me discover my passion for business management and finance."
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "uz": "Shoxjahon Amonov",
+      "en": "Shoxjahon Amonov"
+    },
+    "image": "../public/Images/Images2/Shoxjahon image.jpg",
+    "field": {
+      "uz": "Kompyuter fanlari",
+      "en": "Computer Science"
+    },
+    "achievement": {
+      "uz": "Milliy dasturlash chempionati g‘olibi - 2023",
+      "en": "Winner of National Programming Championship - 2023"
+    },
+    "testimonial": {
+      "uz": "Universitet menga ko‘plab imkoniyatlar va real loyihalarda ishtirok etish imkonini berdi.",
+      "en": "I am grateful for all the opportunities and real-world projects that the university provided."
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "uz": "Shamsiddin Roziboyev",
+      "en": "Shamsiddin Roziboyev"
+    },
+    "image": "/Images/Images2/IMG_20250218_230957_670.jpg",
+    "field": {
+      "uz": "Xalqaro buxgalteriya",
+      "en": "International Accounting"
+    },
+    "achievement": {
+      "uz": "Deloitte kompaniyasida amaliyotni tamomladi - 2024",
+      "en": "Completed internship at Deloitte - 2024"
+    },
+    "testimonial": {
+      "uz": "Professorlarimning yordami bilan yetakchi kompaniyalardan birida tajriba orttira oldim.",
+      "en": "With the support of my professors, I was able to gain valuable experience in one of the leading firms."
+    }
+  },
+  {
+    "id": 4,
+    "name": {
+      "uz": "Akbar Safarov",
+      "en": "Akbar Safarov"
+    },
+    "image": "/Images/Images2/Images3/Akbar.jpg",
+    "field": {
+      "uz": "Kompyuter fanlari",
+      "en": "Computer Science"
+    },
+    "achievement": {
+      "uz": "Talabalar uchun AI asosida boshqaruv tizimi yaratdi",
+      "en": "Developed AI-based management system for students"
+    },
+    "testimonial": {
+      "uz": "Bu universitet menga nafaqat nazariy bilim, balki amaliy tajriba ham berdi.",
+      "en": "This university not only provided me with theoretical knowledge but also gave me hands-on experience."
+    }
+  }
+]
+,
+
+"whychooseUs": [
+    {
+      "icon": "FaChalkboardTeacher",
+      "title": {
+        "uz": "Tajribali O‘qituvchilar",
+        "en": "Expert Faculty"
+      },
+      "description": {
+        "uz": "Tajribali professorlar va sanoat mutaxassislaridan ta’lim oling.",
+        "en": "Learn from experienced professors and industry professionals."
+      }
+    },
+    {
+      "icon": "FaUniversity",
+      "title": {
+        "uz": "Zamonaviy Infratuzilma",
+        "en": "Modern Facilities"
+      },
+      "description": {
+        "uz": "Eng so‘nggi texnologiyalar bilan jihozlangan laboratoriyalar, kutubxonalar va o‘quv xonalari.",
+        "en": "State-of-the-art labs, libraries, and learning spaces."
+      }
+    },
+    {
+      "icon": "FaGlobe",
+      "title": {
+        "uz": "Xalqaro Imkoniyatlar",
+        "en": "Global Opportunities"
+      },
+      "description": {
+        "uz": "Xorijda o‘qish dasturlari va xalqaro hamkorlik imkoniyatlari.",
+        "en": "Study abroad programs and international collaborations."
+      }
+    }
+  ]
+,
+
+  "services": [
+    {
+      "id": "1",
+      "title": "Web Development",
+      "description": "We create modern and responsive websites with cutting-edge technologies.",
+      "details": "Our web development services include frontend and backend development, UI/UX design, and performance optimization.",
+      "benefits": [
+        "High-quality code",
+        "SEO optimized",
+        "Mobile-friendly design",
+        "Fast loading speed"
+      ],
+      "image": "/public/Images/Images2/Images3/Web developmet.jpeg"
+    },
+    {
+      "id": "2",
+      "title": "Digital Marketing",
+      "description": "Boost your business with our digital marketing strategies.",
+      "details": "We offer SEO, social media marketing, and PPC advertising to grow your brand.",
+      "benefits": [
+        "Increased online visibility",
+        "Higher conversion rates",
+        "Targeted advertising",
+        "Data-driven strategies"
+      ],
+      "image": "/public/Images/Images2/Images3/digital.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Graphic Design",
+      "description": "Creative and professional designs for your brand.",
+      "details": "We specialize in logo design, branding, and visual content creation.",
+      "benefits": [
+        "Unique and creative designs",
+        "Strong brand identity",
+        "Engaging visuals",
+        "High-quality graphics"
+      ],
+      "image": "/public/Images/Images2/Images3/graps.jpg"
+    }
+  ],
+
+  "updates": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Student Science Fair Breaks Records",
+        "uz": "Talabalar ilmiy yarmarkasi rekordlarni yangiladi"
+      },
+      "category": {
+        "en": "Events",
+        "uz": "Tadbirlar"
+      },
+      "image": "/Images/Images2/Images3/new2.jpg",
+      "link": "/news/student-science-fair"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Alumni Donation Revamps Campus Facilities",
+        "uz": "Bitiruvchilar ehsoni kampus sharoitlarini yaxshiladi"
+      },
+      "category": {
+        "en": "University",
+        "uz": "Universitet"
+      },
+      "image": "/Images/Images2/Images3/new3.jpg",
+      "link": "/news/alumni-donation"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Guest Lecture by Nobel Laureate",
+        "uz": "Nobel mukofoti sovrindori mehmon ma’ruzasi"
+      },
+      "category": {
+        "en": "Announcements",
+        "uz": "E’lonlar"
+      },
+      "image": "/Images/Images2/Images3/new4.jpg",
+      "link": "/news/guest-lecture"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Annual Sports Day: A Thrilling Success",
+        "uz": "Yillik sport kuni: Hayajonli muvaffaqiyat"
+      },
+      "category": {
+        "en": "Events",
+        "uz": "Tadbirlar"
+      },
+      "image": "/Images/Images2/Images3/new5.jpg",
+      "link": "/news/sports-day"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "New Internship Opportunities for Students",
+        "uz": "Talabalar uchun yangi amaliyot imkoniyatlari"
+      },
+      "category": {
+        "en": "University",
+        "uz": "Universitet"
+      },
+      "image": "/Images/Images2/Images3/new6.jpg",
+      "link": "/news/internship-opportunities"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "University Hosts International Conference",
+        "uz": "Universitet xalqaro konferensiyaga mezbonlik qilmoqda"
+      },
+      "category": {
+        "en": "University",
+        "uz": "Universitet"
+      },
+      "image": "/Images/Images2/Images3/new7.jpg",
+      "link": "/news/international-conference"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "New AI Research Lab Opens",
+        "uz": "Yangi sun’iy intellekt tadqiqot laboratoriyasi ochildi"
+      },
+      "category": {
+        "en": "Announcements",
+        "uz": "E’lonlar"
+      },
+      "image": "/Images/Images2/Images3/new8.jpg",
+      "link": "/news/ai-research-lab"
+    }
+  ],
+
+  "popular": [
+    {
+      "id": 1,
+      "title": "Professor Wins Prestigious Award",
+      "link": "/news/professor-award"
+    },
+    {
+      "id": 2,
+      "title": "Leadership Book Presented to University Library",
+      "link": "/news/library-opening"
+    },
+    {
+      "id": 3,
+      "title": "University Partners with Tech Giants",
+      "link": "/news/tech-partnership"
+    }
+  ],
+  "Statisticdetails": [
+  {
+    
+      "id": 1,
+      "title": "Taniqli Professor-O‘qituvchilar",
+      "description": "Bizning akademik jamoamiz 200 dan ortiq tajribali va xalqaro miqyosda e'tirof etilgan professorlardan iborat bo‘lib, ular ta'lim va tadqiqot sohasida mukammallikka intiladilar.",
+      "image": "../public/Images/Images2/Images3/professors.jpeg",
+      "totalMembers": "200+ Hurmatga Sazovor Professorlar",
+      "achievements": "50+ Nufuzli Xalqaro Mukofotlar Sovrindori",
+      "researchProjects": "120+ Faol Tadqiqot Loyihalari",
+      "publications": "500+ Ilmiy Nashrlar"
+  }
+  
+  ,
+  {
+    "id": 2,
+    "title": "Dinamik Talabalar Jamiyati",
+    "description": "5000 dan ortiq faol talabalar bilan biz innovatsiyalar, yetakchilik va akademik mukammallikni rag‘batlantiruvchi muhit yaratamiz.",
+    "image": "../public/Images/Images2/Images3/student.jpg",
+    "totalMembers": "5000+ Izchil va Maqsadli Talabalar",
+    "achievements": "300+ Milliy va Xalqaro Tanlov G‘alabalari",
+    "researchProjects": "50+ Inqilobiy Talabalar Tadqiqot Loyihalari",
+    "publications": " 200+ Ilmiy Jurnallarda Nashr Qilingan Talabalar Maqolalari"
+  },
+  {
+    "id": 3,
+    "title": "Muvaffaqiyatli Bitiruvchilar Tarmog‘i",
+    "description": "10 000 dan ortiq bitiruvchilar turli sohalarda ulkan yutuqlarga erishib, o‘z sohalariga katta hissa qo‘shmoqdalar.",
+    "image": "../public/Images/Images2/Images3/students.jpg",
+    "totalMembers": "10 000+ Muvaffaqiyatli Bitiruvchilar",
+    "achievements": "80% Yetakchi Tashkilotlarda Ish Bilan Ta'minlangan",
+    "researchProjects": "30+ Bitiruvchilar Tashkil Etgan Startaplar",
+    "publications": "100+ Bitiruvchilar Tomonidan Yozilgan Kitoblar"
+  },
+  {
+   
+    "id": 4,
+    "title": "Innovatsion Akademik Bo‘limlar",
+    "description": "Bizning institutimiz turli fan yo‘nalishlarida ilg‘or tadqiqotlar va akademik mukammallikka bag‘ishlangan 15 ta maxsus bo‘limni o‘z ichiga oladi.",
+    "image": "../public/Images/Images2/Images3/departments.jpg",
+    "totalMembers": "15+ Zamonaviy Bo‘limlar",
+    "achievements": "Milliy Reytingda Top-10 Talikda",
+    "researchProjects": "200+ Fanlararo Tadqiqot Loyihalari",
+    "publications": "1000+ Nashr Qilingan Jurnal va Konferensiya Maqolalari"
+  }
+],
+
+  "studentsdetails": [
+  {
+    "id": 1,
+    "name": "Azizbek Qayumov",
+    "image": "/Images/Images2/Azizbek.jpg",
+    "field": "International Accounting",
+    "achievement": "2024-yilda Moliyaviy tahlil bo‘yicha eng yaxshi bitiruvchi mukofotiga sazovor bo‘lgan.",
+    "testimonial": "Universitet menga biznes boshqaruvi va moliya sohasiga bo‘lgan ishtiyoqimni kashf etishga yordam berdi.",
+    "birthdate": "2001-05-14",
+    "email": "azizbek.qayumov@gmail.com",
+    "phone": "+998 88 798 06 07",
+    "projects": [
+      "Financial Risk Analysis Tool",
+      "Budget Planning App",
+      "Investment Strategy Research"
+    ],
+    "skills": ["Financial Analysis", "Taxation", "Data Visualization"],
+    "hobbies": ["Reading financial books", "Stock market analysis", "Playing chess"]
+  },
+  {
+    "id": 2,
+    "name": "Shoxjahon Amonov",
+    "image": "/public/Images/Images2/Shoxjahon image.jpg",
+    "field": "Computer Science",
+    "achievement": "2023-yilgi Milliy Dasturlash Chempionati g‘olibi",
+    "testimonial": "Universitet taqdim etgan barcha imkoniyatlar va amaliy loyihalar uchun minnatdorman.",
+    "birthdate": "2002-11-23",
+    "email": "shoxjahon.amonov@gmail.com",
+    "phone": "+998 99 234 56 78",
+    "projects": [
+      "AI-Powered Chatbot",
+      "E-commerce Website",
+      "Cybersecurity Awareness Program"
+    ],
+    "skills": ["JavaScript", "Machine Learning", "Cybersecurity"],
+    "hobbies": ["Coding challenges", "Gaming", "Traveling"]
+  },
+  {
+    "id": 3,
+    "name": "Shamsiddin Roziboyev",
+    "image": "/Images/Images2/IMG_20250218_230957_670.jpg",
+    "field": "International Accounting",
+    "achievement": "2024-yilda Deloitte kompaniyasida amaliyotni tamomladim",
+    "testimonial": "Professorlarimning qo‘llab-quvvatlashi bilan yetakchi kompaniyalardan birida qimmatli tajriba orttirdim.",
+    "birthdate": "2000-09-10",
+    "email": "shamsiddin.roziboyev@gmail.com",
+    "phone": "+998 91 955 56 01",
+    "projects": [
+      "Corporate Tax Optimization Strategies",
+      "International Financial Reporting Standards (IFRS) Study",
+      "Accounting Software Development"
+    ],
+    "skills": ["Accounting", "Tax Law", "Financial Auditing"],
+    "hobbies": ["Reading", "Playing the piano", "Hiking"]
+  },
+  {
+    "id": 4,
+    "name": "Akbar Safarov",
+    "image": "/Images/Images2/Images3/Akbar.jpg",
+    "field": "Computer Science",
+    "achievement": "Talabalar uchun sun'iy intellekt asosida boshqaruv tizimini ishlab chiqdim",
+    "testimonial": "Bu universitet menga nafaqat nazariy bilim, balki amaliy tajriba ham berdi.",
+    "birthdate": "2000-02-17",
+    "email": "akbar.safarov@gmail.com",
+    "phone": "+998 91 632 58 08",
+    "projects": [
+      "AI-Based Student Management System",
+      "Smart Attendance System",
+      "Cloud-Based Storage for Universities"
+    ],
+    "skills": ["Artificial Intelligence", "Cloud Computing", "Python Development"],
+    "hobbies": ["AI research", "Playing football", "Listening to podcasts"]
+  }
+],
+
+  "TemDetail": [
+    {
+      "id": 2,
+      "img": "../public/Images/Images2/Images3/Zafar aka.jpg",
+      "name": {
+        "uz": "Zafar O'ralov",
+        "en": "Zafar O'ralov"
+      },
+      "title": {
+        "uz": "Direktor",
+        "en": "Director"
+      },
+      "description": {
+        "uz": "Jamoani yuqori sifatli dasturiy yechimlar yaratishga yo‘naltiradi.",
+        "en": "Leads the team to develop high-quality software solutions."
+      },
+      "experience": {
+        "uz": "10 yillik menejment tajribasi, yirik IT kompaniyada ishlagan.",
+        "en": "10 years of management experience, worked in a major IT company."
+      },
+      "projects": {
+        "uz": ["Dasturiy ta’minot kompaniyasi", "Marketing strategiyalari"],
+        "en": ["Software development company", "Marketing strategies"]
+      },
+      "social": {
+        "telegram": "https://t.me/zafar_iq"
+      }
+    },
+    {
+      "id": 1,
+      "img": "../public/Images/Images2/Images3/Javohir aka.jpg",
+      "name": {
+        "uz": "Javohir Yusupov",
+        "en": "Javohir Yusupov"
+      },
+      "title": {
+        "uz": "Frontend Dasturchi",
+        "en": "Frontend Developer"
+      },
+      "description": {
+        "uz": "Zamonaviy UI/UX dizayn bo‘yicha ekspert, React va Tailwind CSS bilan ishlaydi.",
+        "en": "Expert in modern UI/UX design, works with React and Tailwind CSS."
+      },
+      "experience": {
+        "uz": "5 yillik tajriba, bir nechta startap loyihalari ishtirokchisi.",
+        "en": "5 years of experience, participated in several startup projects."
+      },
+      "projects": {
+        "uz": ["Elektron tijorat platformasi", "Portfolio saytlari", "Blog tizimi"],
+        "en": ["E-commerce platform", "Portfolio websites", "Blog system"]
+      },
+      "social": {
+        "telegram": "https://t.me/Javoxir_iq"
+      }
+    },
+    {
+      "id": 3,
+      "img": "../public/Images/Images2/Images3/Bekmuhammad aka.jpg",
+      "name": {
+        "uz": "Bekmuhammad Muhammadaliyev",
+        "en": "Bekmuhammad Muhammadaliyev"
+      },
+      "title": {
+        "uz": "Backend Dasturchi",
+        "en": "Backend Developer"
+      },
+      "description": {
+        "uz": "Server tomon dasturlash, ma’lumotlar bazasi boshqaruvi va API integratsiyalariga ixtisoslashgan.",
+        "en": "Specialized in server-side development, database management, and API integrations."
+      },
+      "experience": {
+        "uz": "7 yillik backend dasturlash tajribasi, Node.js va Python ustasi.",
+        "en": "7 years of backend development experience, expert in Node.js and Python."
+      },
+      "projects": {
+        "uz": ["CRM tizimi", "Bank API integratsiyasi"],
+        "en": ["CRM system", "Bank API integration"]
+      },
+      "social": {
+        "telegram": "https://t.me/b_muhammad"
+      }
+    },
+    {
+      "id": 4,
+      "img": "../public/Images/Images2/Images3/Abdufattox aka.jpg",
+      "name": {
+        "uz": "Abdufattoh Djurayev",
+        "en": "Abdufattoh Djurayev"
+      },
+      "title": {
+        "uz": "SMM Mutaxassisi",
+        "en": "SMM Specialist"
+      },
+      "description": {
+        "uz": "Jozibador kontent yaratish va ijtimoiy media marketing strategiyalarini boshqarish.",
+        "en": "Creates engaging content and manages social media marketing strategies."
+      },
+      "experience": {
+        "uz": "6 yillik marketing tajribasi, global brendlar bilan ishlagan.",
+        "en": "6 years of marketing experience, worked with global brands."
+      },
+      "projects": {
+        "uz": ["Katta brendlarning SMM kampaniyalari", "Reklama strategiyalari"],
+        "en": ["Major brand SMM campaigns", "Advertising strategies"]
+      },
+      "social": {
+        "telegram": "https://t.me/Abdufattox_Djuraev"
+      }
+    }
+  ]
+}
+
+  
+  
+
+
+
+
