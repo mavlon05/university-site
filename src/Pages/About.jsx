@@ -1,6 +1,7 @@
 import AboutHero from '../Components/AboutHero'
 import OurTeam from '../Components/OurTeam'
-import WhyChooseUs from '../Components/WhyChooseUs'
+import WhyChooseUs from '../Components/WhyChooseUs.jsx';
+
 import './About.css'
 function About() {
   return (

@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 const HeroSection = () => {
   const { t } = useTranslation();
   return (
-    <div className="relative h-screen w-full bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/Images/uicgroup2.jpg')" }}>
+    <div className="relative h-screen w-full bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url(https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/uicgroup2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvdWljZ3JvdXAyLmpwZyIsImlhdCI6MTc0Mjg5MTA4NywiZXhwIjoxNzc0NDI3MDg3fQ.2yUUpQPzOC9FuNvwl_cjpSc72mVy7iTlg7kM99RCkNQ)" }}>
       <div className="absolute inset-0 bg-black/60"></div>
       <div className="relative z-10 flex flex-col justify-center items-center h-full text-center text-white px-6">
         <h1 className="text-[24px] sm:text-[40px] md:text-[50px] font-bold">{t("hero.h1")}</h1>

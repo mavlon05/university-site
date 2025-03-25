@@ -6,7 +6,7 @@ export default function StudentDetail() {
   const [studentData, setStudentData] = useState(null);
   window.scrollTo(0, 0);
   useEffect(() => {
-    fetch("/db.json")
+    fetch("https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/db/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYi9kYi5qc29uIiwiaWF0IjoxNzQyODk0NDMzLCJleHAiOjE3NzQ0MzA0MzN9.fNhUFouExxZBgJJMpQFqchlkbMvRZ90RlIl4MTxBBRk")
       .then((res) => res.json())
       .then((data) => {
         const foundItem = data.studentsdetails.find((item) => item.id === Number(id));
@@ -40,7 +40,7 @@ export default function StudentDetail() {
 
           {/* Qo'shimcha ma'lumotlar */}
           <div className="mt-6 space-y-2 text-sm md:text-base">
-            <p className="text-gray-800 dark:text-gray-300"><strong>📅 Tug'ilgan sana:</strong> {studentData.birthdate}</p>
+            <p className="text-gray-800 dark:text-gray-300"><strong>📅 Tugilgan sana:</strong> {studentData.birthdate}</p>
             <p className="text-gray-800 dark:text-gray-300"><strong>📧 Email:</strong> {studentData.email}</p>
             <p className="text-gray-800 dark:text-gray-300"><strong>📞 Telefon:</strong> {studentData.phone}</p>
           </div>

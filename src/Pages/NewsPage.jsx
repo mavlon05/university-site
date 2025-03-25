@@ -13,7 +13,7 @@ const NewsPage = () => {
 
   useEffect(() => {
     
-    fetch("/db.json")
+    fetch("https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/db/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYi9kYi5qc29uIiwiaWF0IjoxNzQyODk0NDMzLCJleHAiOjE3NzQ0MzA0MzN9.fNhUFouExxZBgJJMpQFqchlkbMvRZ90RlIl4MTxBBRk")
       .then((response) => response.json())
       .then((data) => {
         setUpdates(data.updates);

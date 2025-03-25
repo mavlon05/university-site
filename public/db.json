@@ -42,7 +42,7 @@
   "images": [
     {
       "id": 1,
-      "src": "/Images/beautifelcampus.png",
+      "src": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/beautifelcampus.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvYmVhdXRpZmVsY2FtcHVzLnBuZyIsImlhdCI6MTc0Mjg5Mzk3OSwiZXhwIjoxNzc0NDI5OTc5fQ.nRuSqMx6Xeo_y6dlqh4ZmeHevHw2Ool-mr8tc3JshtA",
       "category": "Campus",
       "title": {
         "uz": "Go'zal kampus",
@@ -51,7 +51,7 @@
     },
     {
       "id": 2,
-      "src": "/Images/Images2/Team1.jpg",
+      "src": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Team1%20(1).jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvVGVhbTEgKDEpLmpwZyIsImlhdCI6MTc0Mjg5NDAwNCwiZXhwIjoxNzc0NDMwMDA0fQ.dSEzPvZi1wzpMXhbMel8epmWKVmpHMfm_DbKNqjDmek",
       "category": "Events",
       "title": {
         "uz": "Bitiruv kuni",
@@ -60,7 +60,7 @@
     },
     {
       "id": 3,
-      "src": "/Images/Images2/Team2.jpg",
+      "src": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Team2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvVGVhbTIuanBnIiwiaWF0IjoxNzQyODk0MDM3LCJleHAiOjE3NzQ0MzAwMzd9.VxS37qBf-gvotO4vSJnmmPGCoWTtnwo0-AANmH0TAac",
       "category": "Students",
       "title": {
         "uz": "Guruh bilan o‘qish",
@@ -69,7 +69,7 @@
     },
     {
       "id": 5,
-      "src": "/Images/Images2/Marafon-Photoroom.png",
+      "src": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Marafon-Photoroom.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvTWFyYWZvbi1QaG90b3Jvb20ucG5nIiwiaWF0IjoxNzQyODk0MDYzLCJleHAiOjE3NzQ0MzAwNjN9.om0Rocpo_8TjbV2nr0EvvuQPjkLjkrSMzTGdUreClcQ",
       "category": "Events",
       "title": {
         "uz": "Sport festivali",
@@ -78,7 +78,7 @@
     },
     {
       "id": 6,
-      "src": "/Images/day.png",
+      "src": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/day.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvZGF5LnBuZyIsImlhdCI6MTc0Mjg5NDA4NSwiZXhwIjoxNzc0NDMwMDg1fQ.F9binKPJvPF9zWLIMIusa-_y1SjUaS2s75kG5d8lFsU",
       "category": "Campus",
       "title": {
         "uz": "Yangi bino",
@@ -87,7 +87,7 @@
     },
     {
       "id": 7,
-      "src": "/Images/Images2/shaxmat-Photoroom.png",
+      "src": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/shaxmat-Photoroom.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvc2hheG1hdC1QaG90b3Jvb20ucG5nIiwiaWF0IjoxNzQyODk0MTExLCJleHAiOjE3NzQ0MzAxMTF9.oVQbqC2OsjcIyy1fVGYpECudNmPjUSF6zD08uMIhirc",
       "category": "Students",
       "title": {
         "uz": "Laboratoriya ishi",
@@ -96,7 +96,7 @@
     },
     {
       "id": 8,
-      "src": "/Images/Images2/night.jpg",
+      "src": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/night.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvbmlnaHQuanBnIiwiaWF0IjoxNzQyODk0MTc0LCJleHAiOjE3NzQ0MzAxNzR9.rKo8X5QuAAszJ-xyA1dB9pnm1SBwfZdse-DAjlTpFBU",
       "category": "Events",
       "title": {
         "uz": "Madaniy kecha",
@@ -105,7 +105,7 @@
     },
     {
       "id": 9,
-      "src": "/Images/Images2/maruzazali-Photoroom.png",
+      "src": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/maruzazali-Photoroom.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvbWFydXphemFsaS1QaG90b3Jvb20ucG5nIiwiaWF0IjoxNzQyODk0MjEyLCJleHAiOjE3NzQ0MzAyMTJ9.FbxPRF-zXLACiWjS3wxK-M3toMBzV3YMMu0-ro_p7z0",
       "category": "Campus",
       "title": {
         "uz": "Ma’ruza zali",
@@ -149,31 +149,31 @@
   "partners": [
     {
       "id": 1,
-      "href": "https://uzbekistans.club/",
+      "href": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/uzbekistanclub.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvdXpiZWtpc3RhbmNsdWIucG5nIiwiaWF0IjoxNzQyODkxNjE4LCJleHAiOjE3NzQ0Mjc2MTh9._bLh3mI_hKlU-7WZxLXJflWFx9RtlEwjhXhkGLYCI9o",
       "imgSrc": "/Images/Images2/uzbekistanclub.png",
       "alt": "Uzbekistan"
     },
     {
       "id": 2,
-      "href": "https://sqb.uz/uz/individuals/",
+      "href": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Sqb.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvU3FiLnBuZyIsImlhdCI6MTc0Mjg5MTY4NywiZXhwIjoxNzc0NDI3Njg3fQ.gzQ4oK6OqJwm_VNyRFgtMwvS0BpKcBstSUJb_ex9JK0",
       "imgSrc": "/Images/Images2/Sqb.png",
       "alt": "UIC Group"
     },
     {
       "id": 3,
-      "href": "https://ngo.imkon.uz/",
+      "href": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Imkon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvSW1rb24ucG5nIiwiaWF0IjoxNzQyODkxODQ0LCJleHAiOjE3NzQ0Mjc4NDR9.D5-ou7RWRA1veZjs-UC3l99CMfb2yPz9vKMH3IkPXp4",
       "imgSrc": "/Images/Images2/Imkon.png",
       "alt": "Imkon"
     },
     {
       "id": 4,
-      "href": "https://uic.group/",
+      "href": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/uicgroup2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvdWljZ3JvdXAyLmpwZyIsImlhdCI6MTc0Mjg5MTg3NSwiZXhwIjoxNzc0NDI3ODc1fQ.l3fP_gHzx2fpGmxEFyIc-FjTDQr9UpBI_w75B99JBEk",
       "imgSrc": "/Images/Images2/Uic.png",
       "alt": "SQB Bank"
     },
     {
       "id": 5,
-      "href": "https://paylov.uz/",
+      "href": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Paylov.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvUGF5bG92LnBuZyIsImlhdCI6MTc0Mjg5MTkxNiwiZXhwIjoxNzc0NDI3OTE2fQ.7nITEmD2yJuXOFl7NG-AV79JR66DC0ACD8qApxqXn9U",
       "imgSrc": "/Images/Images2/Paylov.png",
       "alt": "Paylov"
     }
@@ -181,7 +181,7 @@
   "news": [
     {
       "id": 1,
-      "img": "/Images/Images2/Images3/News1.jpg",
+      "img": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/News1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvTmV3czEuanBnIiwiaWF0IjoxNzQyODkyMTg4LCJleHAiOjE3NzQ0MjgxODh9.9VZv-B_2A_JlUW0Y0JON463uoWOF24IiBaaco-luh_g",
       "title": {
         "en": "University officials met with partners",
         "uz": "Universitet rasmiylari hamkorlar bilan uchrashdi"
@@ -194,7 +194,7 @@
     },
     {
       "id": 2,
-      "img": "/Images/Images2/Images3/News2.jpg",
+      "img": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/News2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvTmV3czIuanBnIiwiaWF0IjoxNzQyODkyMjI1LCJleHAiOjE3NzQ0MjgyMjV9.VRBdAztlmQmNuAhk44P1KzXqd7rDMPQeennJv5dIuE0",
       "title": {
         "en": "Associate Professor of Iqtidar University",
         "uz": "Iqtidar universiteti dotsenti"
@@ -214,7 +214,7 @@
       "uz": "Azizbek Qayumov",
       "en": "Azizbek Qayumov"
     },
-    "image": "/Images/Images2/Azizbek.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Azizbek.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvQXppemJlay5qcGciLCJpYXQiOjE3NDI4OTIwMzIsImV4cCI6MTc3NDQyODAzMn0.AYMUm8sOzVrBBt-WbbylRgKAxZYmUp78ScCvLZLwVmQ",
     "field": {
       "uz": "Xalqaro buxgalteriya",
       "en": "International Accounting"
@@ -234,7 +234,7 @@
       "uz": "Shoxjahon Amonov",
       "en": "Shoxjahon Amonov"
     },
-    "image": "../public/Images/Images2/Shoxjahon image.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Shoxjahon%20image.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvU2hveGphaG9uIGltYWdlLmpwZyIsImlhdCI6MTc0Mjg5MjA3MywiZXhwIjoxNzc0NDI4MDczfQ.Zj-H9PLZ5fCs824CpEB2pZF-l_O4jyArr7JClNEMdqI",
     "field": {
       "uz": "Kompyuter fanlari",
       "en": "Computer Science"
@@ -254,7 +254,7 @@
       "uz": "Shamsiddin Roziboyev",
       "en": "Shamsiddin Roziboyev"
     },
-    "image": "/Images/Images2/IMG_20250218_230957_670.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/IMG_20250218_230957_670.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvSU1HXzIwMjUwMjE4XzIzMDk1N182NzAuanBnIiwiaWF0IjoxNzQyODkyMTA5LCJleHAiOjE3NzQ0MjgxMDl9.tZy9Yx02Jtdf0V5fp0LEK8ItVGKqYC5At_1u7sBz24s",
     "field": {
       "uz": "Xalqaro buxgalteriya",
       "en": "International Accounting"
@@ -274,7 +274,7 @@
       "uz": "Akbar Safarov",
       "en": "Akbar Safarov"
     },
-    "image": "/Images/Images2/Images3/Akbar.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Akbar.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvQWtiYXIuanBnIiwiaWF0IjoxNzQyODkyMTM4LCJleHAiOjE3NzQ0MjgxMzh9.b-RoSp6rbZp95D2uB7mmGwZ2rI8gelItMUF-gJ6v8T0",
     "field": {
       "uz": "Kompyuter fanlari",
       "en": "Computer Science"
@@ -340,7 +340,7 @@
         "Mobile-friendly design",
         "Fast loading speed"
       ],
-      "image": "/public/Images/Images2/Images3/Web developmet.jpeg"
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Web%20developmet.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvV2ViIGRldmVsb3BtZXQuanBlZyIsImlhdCI6MTc0Mjg5MjMwNywiZXhwIjoxNzc0NDI4MzA3fQ.lPAIB4ChH8rc9jXOpiNCpwO4cNwzhFbrVLZvgunkPTc"
     },
     {
       "id": "2",
@@ -353,7 +353,7 @@
         "Targeted advertising",
         "Data-driven strategies"
       ],
-      "image": "/public/Images/Images2/Images3/digital.jpg"
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/digital.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvZGlnaXRhbC5qcGciLCJpYXQiOjE3NDI4OTI1MjEsImV4cCI6MTc3NDQyODUyMX0.UH81G9Yssng2JtKG5LHupkGe_gZybKR17wGjfEETAjQ"
     },
     {
       "id": "3",
@@ -366,7 +366,7 @@
         "Engaging visuals",
         "High-quality graphics"
       ],
-      "image": "/public/Images/Images2/Images3/graps.jpg"
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/graps.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvZ3JhcHMuanBnIiwiaWF0IjoxNzQyODkyNDM2LCJleHAiOjE3NzQ0Mjg0MzZ9.q0NXwQ9T2TJ5g9Wft4bstjeF6w2dWvoyE09flS9JwVY"
     }
   ],
 
@@ -381,7 +381,7 @@
         "en": "Events",
         "uz": "Tadbirlar"
       },
-      "image": "/Images/Images2/Images3/new2.jpg",
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/new2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvbmV3Mi5qcGciLCJpYXQiOjE3NDI4OTI3MTYsImV4cCI6MTc3NDQyODcxNn0.QP_stwc7UA1EJSUjit157JAPErZx8_FlaJBJIUnchyg",
       "link": "/news/student-science-fair"
     },
     {
@@ -394,7 +394,7 @@
         "en": "University",
         "uz": "Universitet"
       },
-      "image": "/Images/Images2/Images3/new3.jpg",
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/new3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvbmV3My5qcGciLCJpYXQiOjE3NDI4OTI3NjUsImV4cCI6MTc3NDQyODc2NX0.oXGXajProFfVb23JXwqXh4EN2DhCzqrTNLdNHU55utk",
       "link": "/news/alumni-donation"
     },
     {
@@ -407,7 +407,7 @@
         "en": "Announcements",
         "uz": "E’lonlar"
       },
-      "image": "/Images/Images2/Images3/new4.jpg",
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/new4.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvbmV3NC5qcGciLCJpYXQiOjE3NDI4OTI3OTIsImV4cCI6MTc3NDQyODc5Mn0.knpMrtBn94JyFywJ4Wbho1e4gYBZDctktw1P-gq4UCM",
       "link": "/news/guest-lecture"
     },
     {
@@ -420,7 +420,7 @@
         "en": "Events",
         "uz": "Tadbirlar"
       },
-      "image": "/Images/Images2/Images3/new5.jpg",
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/new5.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvbmV3NS5qcGciLCJpYXQiOjE3NDI4OTI4MTksImV4cCI6MTc3NDQyODgxOX0.B7Cd7NBo63FQA2E5cwstjK0vuAzmAR-doJlfL9JYejI",
       "link": "/news/sports-day"
     },
     {
@@ -433,7 +433,7 @@
         "en": "University",
         "uz": "Universitet"
       },
-      "image": "/Images/Images2/Images3/new6.jpg",
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/new6.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvbmV3Ni5qcGciLCJpYXQiOjE3NDI4OTI4NDMsImV4cCI6MTc3NDQyODg0M30.UdOH1jvhc6KpizG7ZKLYAY7sVO4EWHdJ-XTHfkKlI-o",
       "link": "/news/internship-opportunities"
     },
     {
@@ -446,7 +446,7 @@
         "en": "University",
         "uz": "Universitet"
       },
-      "image": "/Images/Images2/Images3/new7.jpg",
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/new7.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvbmV3Ny5qcGciLCJpYXQiOjE3NDI4OTMwMjUsImV4cCI6MTc3NDQyOTAyNX0.PzOeiugkDeCf9K7_zOg2QkHLkyqeXOMcAHr7lXmzPZ8",
       "link": "/news/international-conference"
     },
     {
@@ -459,7 +459,7 @@
         "en": "Announcements",
         "uz": "E’lonlar"
       },
-      "image": "/Images/Images2/Images3/new8.jpg",
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/new8.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvbmV3OC5qcGciLCJpYXQiOjE3NDI4OTI5NzEsImV4cCI6MTc3NDQyODk3MX0.PFliJ4aKek3AmIlCRg7xTmrB043M-m0JAxHFAJ7m-Bc",
       "link": "/news/ai-research-lab"
     }
   ],
@@ -487,7 +487,7 @@
       "id": 1,
       "title": "Taniqli Professor-O‘qituvchilar",
       "description": "Bizning akademik jamoamiz 200 dan ortiq tajribali va xalqaro miqyosda e'tirof etilgan professorlardan iborat bo‘lib, ular ta'lim va tadqiqot sohasida mukammallikka intiladilar.",
-      "image": "../public/Images/Images2/Images3/professors.jpeg",
+      "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/professors.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvcHJvZmVzc29ycy5qcGVnIiwiaWF0IjoxNzQyODkzMjI3LCJleHAiOjE3NzQ0MjkyMjd9.KWRWiDcbb6Z_7_MrLaTfN-dyDpIEYNwCYTeyllcSOQ8",
       "totalMembers": "200+ Hurmatga Sazovor Professorlar",
       "achievements": "50+ Nufuzli Xalqaro Mukofotlar Sovrindori",
       "researchProjects": "120+ Faol Tadqiqot Loyihalari",
@@ -499,7 +499,7 @@
     "id": 2,
     "title": "Dinamik Talabalar Jamiyati",
     "description": "5000 dan ortiq faol talabalar bilan biz innovatsiyalar, yetakchilik va akademik mukammallikni rag‘batlantiruvchi muhit yaratamiz.",
-    "image": "../public/Images/Images2/Images3/student.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/student%20(1).jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvc3R1ZGVudCAoMSkuanBnIiwiaWF0IjoxNzQyODkzMjYwLCJleHAiOjE3NzQ0MjkyNjB9.ymFiat1lbBJZ7yytG46i2fctEoRuvIfvg6RQhJjAmh8",
     "totalMembers": "5000+ Izchil va Maqsadli Talabalar",
     "achievements": "300+ Milliy va Xalqaro Tanlov G‘alabalari",
     "researchProjects": "50+ Inqilobiy Talabalar Tadqiqot Loyihalari",
@@ -509,7 +509,7 @@
     "id": 3,
     "title": "Muvaffaqiyatli Bitiruvchilar Tarmog‘i",
     "description": "10 000 dan ortiq bitiruvchilar turli sohalarda ulkan yutuqlarga erishib, o‘z sohalariga katta hissa qo‘shmoqdalar.",
-    "image": "../public/Images/Images2/Images3/students.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/students.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvc3R1ZGVudHMuanBnIiwiaWF0IjoxNzQyODkzMjg4LCJleHAiOjE3NzQ0MjkyODh9.t73Qkj40VE9HfFpMGHJfVU0fpaCzXvlM90rEMKfDs9I",
     "totalMembers": "10 000+ Muvaffaqiyatli Bitiruvchilar",
     "achievements": "80% Yetakchi Tashkilotlarda Ish Bilan Ta'minlangan",
     "researchProjects": "30+ Bitiruvchilar Tashkil Etgan Startaplar",
@@ -520,7 +520,7 @@
     "id": 4,
     "title": "Innovatsion Akademik Bo‘limlar",
     "description": "Bizning institutimiz turli fan yo‘nalishlarida ilg‘or tadqiqotlar va akademik mukammallikka bag‘ishlangan 15 ta maxsus bo‘limni o‘z ichiga oladi.",
-    "image": "../public/Images/Images2/Images3/departments.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/departments.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvZGVwYXJ0bWVudHMuanBnIiwiaWF0IjoxNzQyODkzMzE0LCJleHAiOjE3NzQ0MjkzMTR9.eVgKpCUrKuxkrBPsOHYReL2qMT77wZxPn1ylthSY1Z4",
     "totalMembers": "15+ Zamonaviy Bo‘limlar",
     "achievements": "Milliy Reytingda Top-10 Talikda",
     "researchProjects": "200+ Fanlararo Tadqiqot Loyihalari",
@@ -532,7 +532,7 @@
   {
     "id": 1,
     "name": "Azizbek Qayumov",
-    "image": "/Images/Images2/Azizbek.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Azizbek.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvQXppemJlay5qcGciLCJpYXQiOjE3NDI4OTM0NDgsImV4cCI6MTc3NDQyOTQ0OH0.kBpUiUs1Z0nxQ6ToTFTi0X103l4yNuuELoI_DICsdzs",
     "field": "International Accounting",
     "achievement": "2024-yilda Moliyaviy tahlil bo‘yicha eng yaxshi bitiruvchi mukofotiga sazovor bo‘lgan.",
     "testimonial": "Universitet menga biznes boshqaruvi va moliya sohasiga bo‘lgan ishtiyoqimni kashf etishga yordam berdi.",
@@ -550,7 +550,7 @@
   {
     "id": 2,
     "name": "Shoxjahon Amonov",
-    "image": "/public/Images/Images2/Shoxjahon image.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Shoxjahon%20image.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvU2hveGphaG9uIGltYWdlLmpwZyIsImlhdCI6MTc0Mjg5MzQ3MiwiZXhwIjoxNzc0NDI5NDcyfQ.Ml0XQQryP8dnMWpHgmT30E8imLZCnBTjfGchp8Ct-RM",
     "field": "Computer Science",
     "achievement": "2023-yilgi Milliy Dasturlash Chempionati g‘olibi",
     "testimonial": "Universitet taqdim etgan barcha imkoniyatlar va amaliy loyihalar uchun minnatdorman.",
@@ -568,7 +568,7 @@
   {
     "id": 3,
     "name": "Shamsiddin Roziboyev",
-    "image": "/Images/Images2/IMG_20250218_230957_670.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Shamsiddin.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvU2hhbXNpZGRpbi5qcGciLCJpYXQiOjE3NDI4OTM1MzAsImV4cCI6MTc3NDQyOTUzMH0.QVzW6BrLlQduCgGT3brYqoYttiSRDyMeddjMlGiEP8Y",
     "field": "International Accounting",
     "achievement": "2024-yilda Deloitte kompaniyasida amaliyotni tamomladim",
     "testimonial": "Professorlarimning qo‘llab-quvvatlashi bilan yetakchi kompaniyalardan birida qimmatli tajriba orttirdim.",
@@ -586,7 +586,7 @@
   {
     "id": 4,
     "name": "Akbar Safarov",
-    "image": "/Images/Images2/Images3/Akbar.jpg",
+    "image": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Akbar.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvQWtiYXIuanBnIiwiaWF0IjoxNzQyODkzNTQ2LCJleHAiOjE3NzQ0Mjk1NDZ9.60YD3rW009U-Cz_kAw2ASqMnluarcLOWZi3Ofe_YofM",
     "field": "Computer Science",
     "achievement": "Talabalar uchun sun'iy intellekt asosida boshqaruv tizimini ishlab chiqdim",
     "testimonial": "Bu universitet menga nafaqat nazariy bilim, balki amaliy tajriba ham berdi.",
@@ -605,8 +605,8 @@
 
   "TemDetail": [
     {
-      "id": 2,
-      "img": "../public/Images/Images2/Images3/Zafar aka.jpg",
+      "id": 1,
+      "img": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Zafar%20aka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvWmFmYXIgYWthLmpwZyIsImlhdCI6MTc0Mjg5MzU4MiwiZXhwIjoxNzc0NDI5NTgyfQ.WIS7r7350JowyAl1Q1tp-ybQCABxqbTQseWcTaJrmGo",
       "name": {
         "uz": "Zafar O'ralov",
         "en": "Zafar O'ralov"
@@ -632,8 +632,8 @@
       }
     },
     {
-      "id": 1,
-      "img": "../public/Images/Images2/Images3/Javohir aka.jpg",
+      "id": 2,
+      "img": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Zafar%20aka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvWmFmYXIgYWthLmpwZyIsImlhdCI6MTc0Mjg5MzU4MiwiZXhwIjoxNzc0NDI5NTgyfQ.WIS7r7350JowyAl1Q1tp-ybQCABxqbTQseWcTaJrmGo",
       "name": {
         "uz": "Javohir Yusupov",
         "en": "Javohir Yusupov"
@@ -660,7 +660,7 @@
     },
     {
       "id": 3,
-      "img": "../public/Images/Images2/Images3/Bekmuhammad aka.jpg",
+      "img": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Bekmuhammad%20aka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvQmVrbXVoYW1tYWQgYWthLmpwZyIsImlhdCI6MTc0Mjg5MzY4NiwiZXhwIjoxNzc0NDI5Njg2fQ.2aYZtpfUpKgASguV0BS5CeFBVarTb2uYiT4Hfq0W8mw",
       "name": {
         "uz": "Bekmuhammad Muhammadaliyev",
         "en": "Bekmuhammad Muhammadaliyev"
@@ -687,7 +687,7 @@
     },
     {
       "id": 4,
-      "img": "../public/Images/Images2/Images3/Abdufattox aka.jpg",
+      "img": "https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/Abdufattox%20aka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvQWJkdWZhdHRveCBha2EuanBnIiwiaWF0IjoxNzQyODkzNzI0LCJleHAiOjE3NzQ0Mjk3MjR9.anlzulVGesGkcxaeqR9OkDWPj9ejbxKud0d9zoLsQec",
       "name": {
         "uz": "Abdufattoh Djurayev",
         "en": "Abdufattoh Djurayev"
