@@ -14,7 +14,7 @@ function WhyChooseUs() {
   const [whyChoose, setWhyChoose] = useState([]);
 
   useEffect(() => {
-    fetch("https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/db/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYi9kYi5qc29uIiwiaWF0IjoxNzQyODk0NDMzLCJleHAiOjE3NzQ0MzA0MzN9.fNhUFouExxZBgJJMpQFqchlkbMvRZ90RlIl4MTxBBRk")
+    fetch("https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvZGIuanNvbiIsImlhdCI6MTc0NDE3OTI0MSwiZXhwIjoxNzc1NzE1MjQxfQ.r76rnG4fKTMFsVJS-wBYIP2gTNS5XJ2Flqa9Hj250zI")
       .then((res) => res.json())
       .then((data) => setWhyChoose(data.whychooseUs))
       .catch((error) => console.error("Error loading data:", error));

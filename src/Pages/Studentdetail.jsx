@@ -1,12 +1,13 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import TeamDetail from "./TeamDetail";
 
 export default function StudentDetail() {
   const { id } = useParams();
   const [studentData, setStudentData] = useState(null);
   window.scrollTo(0, 0);
   useEffect(() => {
-    fetch("https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/db/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYi9kYi5qc29uIiwiaWF0IjoxNzQyODk0NDMzLCJleHAiOjE3NzQ0MzA0MzN9.fNhUFouExxZBgJJMpQFqchlkbMvRZ90RlIl4MTxBBRk")
+    fetch("https://pseozdrbextiztvqclhf.supabase.co/storage/v1/object/sign/univer/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1bml2ZXIvZGIuanNvbiIsImlhdCI6MTc0NDE3OTI0MSwiZXhwIjoxNzc1NzE1MjQxfQ.r76rnG4fKTMFsVJS-wBYIP2gTNS5XJ2Flqa9Hj250zI")
       .then((res) => res.json())
       .then((data) => {
         const foundItem = data.studentsdetails.find((item) => item.id === Number(id));
@@ -18,6 +19,10 @@ export default function StudentDetail() {
   if (!studentData) {
     return <h1 className="text-center text-2xl font-bold mt-10">Loading...</h1>;
   }
+
+  console.log(TeamDetail);
+  
+  
 
   return (
     <div className="max-w-5xl mx-auto mt-10 p-6 bg-white dark:bg-gray-800 shadow-lg rounded-lg">
